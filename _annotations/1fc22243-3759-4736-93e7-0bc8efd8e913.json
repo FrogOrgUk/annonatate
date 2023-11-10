@@ -1,0 +1,34 @@
+---
+canvas: "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00024-000-00001.jp2/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Dock Area",
+            "purpose": "commenting",
+            "creator": {
+                "id": "FrogOrgUk",
+                "name": "FrogOrgUk"
+            },
+            "created": "2023-11-10T10:48:07.917Z",
+            "modified": "2023-11-10T10:48:09.962Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://image.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00024-000-00001.jp2/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=4197.15380859375,1833.69775390625,1319.9326171875,1302.56494140625"
+        }
+    },
+    "id": "1fc22243-3759-4736-93e7-0bc8efd8e913.json",
+    "motivation": "commenting"
+}
