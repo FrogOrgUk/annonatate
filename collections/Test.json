@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Test",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://frogorguk.github.io/annonatate/annotations/1fc22243-3759-4736-93e7-0bc8efd8e913.json'></iiif-storyboard>",
+            "title": "Test",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
