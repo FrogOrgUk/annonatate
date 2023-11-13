@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/2"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Note",
+            "purpose": "commenting",
+            "creator": {
+                "id": "FrogOrgUk",
+                "name": "FrogOrgUk"
+            },
+            "created": "2023-11-13T10:09:05.472Z",
+            "modified": "2023-11-13T10:09:05.798Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-CHCR-00398/canvas/2",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=3989.16455078125,342.54498291015625,810.4111328125,843.8302612304688"
+        }
+    },
+    "id": "e61c449e-6b77-4049-9cad-c40a6b552782.json",
+    "motivation": "commenting"
+}
