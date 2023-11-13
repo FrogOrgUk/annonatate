@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-13 10:54:38.759733'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/PR-C-00017-00041-00024
+  user: FrogOrgUk
 settings: {}
 version: '2.1'
